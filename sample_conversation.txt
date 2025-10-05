@@ -1,0 +1,2 @@
+Tú: Explica Nmap básico.
+Bot: Nmap es una herramienta para escaneo de puertos. Comando: nmap -sV target_ip. Ético: Solo en tus sistemas.
