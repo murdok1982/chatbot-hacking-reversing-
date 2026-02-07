@@ -1,5 +1,38 @@
-__pycache__/
-*.pyc
+# Environment
 .env
-ollama/
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+dist/
+*.egg-info/
+venv/
+env/
+
+# Logs
+logs/
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+config.ini
+secrets.json
+*.key
+*.pem
+
+# Session data
+sessions/
+*.session
+
+# IDEs
+.vscode/
+.idea/
 .DS_Store
