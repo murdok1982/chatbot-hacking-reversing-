@@ -1,3 +1,4 @@
+import hispan_shield_guardian  # noqa: F401
 from .llm_chain import create_chain
 from .utils import validate_input, logger
 
